@@ -1,0 +1,9 @@
+name: core
+author: BoSultan
+version: 1.0
+main: xyz.core.Main
+description: Connect between minecraft and discord.
+commands:
+  verify:
+    usage: /verify
+    description: Command to verify
